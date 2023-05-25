@@ -5,12 +5,12 @@ Given a location and a search radius, bring out the top Tourist Spots according 
 <br><br>
 Last but not the least, it was great to combine Image Recognition in this project. At its core, it uses the BiT model (Imagenet) for Image (Landscape) Recognition.
   
-<br><br>
+<br>
 <h5> Since, this project is in the exploratory stage, right now everything is packaged in the form of a Collab Notebook.
   Run the cells one by one as mentioned and explore!
- <br>
+ <br><br>
   
-  <a href='https://colab.research.google.com/drive/1i5ORoVsV_ALCCL2h-AsaJQdjIti05D6E#scrollTo=9ec8b992'>LINK TO THE COLLAB NOTEBOOK </a>
+<a href='https://colab.research.google.com/drive/1i5ORoVsV_ALCCL2h-AsaJQdjIti05D6E#scrollTo=9ec8b992'>LINK TO THE COLLAB NOTEBOOK </a>
   
   
   
