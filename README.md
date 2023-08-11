@@ -1,6 +1,7 @@
 
 # Tourist-Attraction-Recommendation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WJL0jMGftX1usXTJqQbWzxMgWk7lBN9X#scrollTo=80SL1lvC3jI_)
+<br>
 This image-embedding based recommendation system is based on the following steps as I have charted out:
 
 Step 1:
