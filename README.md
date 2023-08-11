@@ -1,3 +1,18 @@
+
+# Tourist-Attraction-Recommendation
+This image-embedding based recommendation system is based on the following steps as I have charted out:
+
+Step 1:
+
+![Untitled presentation (25)](https://github.com/ayanatherate/Tourist-Attraction-Search-and-Recommendation/assets/59755186/a1c81259-3659-4c19-bfff-4081fdbfe95b)
+
+
+
+
+
+
+
+
 # Tourist-Attraction-Search
 Given a location and a search radius, bring out the top Tourist Spots according to preference (example 'Hills', 'Palaces' etc.)
 
