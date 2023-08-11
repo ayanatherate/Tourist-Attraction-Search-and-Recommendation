@@ -2,7 +2,7 @@
 # Tourist-Attraction-Recommendation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WJL0jMGftX1usXTJqQbWzxMgWk7lBN9X#scrollTo=80SL1lvC3jI_)
 <br>
-This image-embedding based recommendation system is based on the following steps as I have charted out:
+This image-embedding based recommendation system is based on the following steps as charted:
 
 Step 1:
 ![Untitled presentation (28)](https://github.com/ayanatherate/Tourist-Attraction-Search-and-Recommendation/assets/59755186/57d218f6-9203-4f82-83e5-26dd948a11e8)
@@ -14,6 +14,7 @@ Step 2:
 
 <h3> Things to work on further</h3>
 1) Better Similarity Comparison Algorithms for images
+<br>
 2) Better ranking system based on (if possible) more parameters.
 
 
