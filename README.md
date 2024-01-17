@@ -5,7 +5,7 @@
 This image-embedding based recommendation system is based on the following steps as charted:
 
 Step 1:
-![Untitled presentation (28)](https://github.com/ayanatherate/Tourist-Attraction-Search-and-Recommendation/assets/59755186/57d218f6-9203-4f82-83e5-26dd948a11e8)
+![Untitled presentation (3)](https://github.com/ayanatherate/Tourist-Attraction-Search-and-Recommendation/assets/59755186/66d6508e-4ca1-4431-b976-61fd3f6c1f98)
 
 
 Step 2:
