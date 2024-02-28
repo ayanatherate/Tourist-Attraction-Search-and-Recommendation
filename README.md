@@ -18,6 +18,7 @@ Step 2:
 2) Better ranking system based on (if possible) more parameters.
 <br>
 Example output:
+
 ![image](https://github.com/ayanatherate/Tourist-Attraction-Search-and-Recommendation/assets/59755186/2b5068ee-f7c2-4a4f-a975-61d47d455577)
 
 
