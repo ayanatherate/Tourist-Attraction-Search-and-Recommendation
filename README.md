@@ -33,8 +33,7 @@ However, Google Maps has this functionality. If you want to search 'Hills near m
 If you still want to check out, here's the code:
 <br>
 
-[![Open In Colab](https://colab.research.google.com/drive/1i5ORoVsV_ALCCL2h-AsaJQdjIti05D6E#scrollTo=9ec8b992)
-  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WJL0jMGftX1usXTJqQbWzxMgWk7lBN9X#scrollTo=80SL1lvC3jI_)
   
   
   
