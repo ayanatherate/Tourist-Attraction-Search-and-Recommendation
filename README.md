@@ -16,8 +16,9 @@ Step 2:
 1) Better Similarity Comparison Algorithms for images
 <br>
 2) Better ranking system based on (if possible) more parameters.
-<br>
+<br><br>
 Example output:
+<br><br>
 
 ![image](https://github.com/ayanatherate/Tourist-Attraction-Search-and-Recommendation/assets/59755186/2b5068ee-f7c2-4a4f-a975-61d47d455577)
 
