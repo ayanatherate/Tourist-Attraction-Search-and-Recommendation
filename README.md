@@ -17,6 +17,10 @@ Step 2:
 <br>
 2) Better ranking system based on (if possible) more parameters.
 
+Example output:
+![image](https://github.com/ayanatherate/Tourist-Attraction-Search-and-Recommendation/assets/59755186/2b5068ee-f7c2-4a4f-a975-61d47d455577)
+
+
 
 
 
@@ -24,20 +28,12 @@ Step 2:
 
 
 # Tourist-Attraction-Search
-Given a location and a search radius, bring out the top Tourist Spots according to preference (example 'Hills', 'Palaces' etc.)
+A separate use-case, I've tried to work on: given a location and a search radius, bring out the top Tourist Spots according to preference (example 'Hills', 'Palaces' etc.)
+However, Google Maps has this functionality. If you want to search 'Hills near me' on the Gmaps search bar, it will do it's job for you. 
+If you still want to check out, here's the code:
 
-Edit (29th June): Currently also working on preparing a network map between tourist attraction spots returned so that User can have an order in which they can visit Tourist Attraction Spots, sorted by closest distance between two corresponding places of Attraction. 
-
-<h4> This project is ongoing since I am still working on the idea. As of now Google Maps does provide the same capability. You can literally search 'hills near me' on the Google Maps search bar and GMaps will do its job. This does render this project useless however, one thing I have noticed that GMaps can be at times inaccurate and there is no exact quantification or direction in the spots returned. By using a radius feature, this project does aim to provide some user choice in terms of Direction and KM radius the user wants to explore.
-<br><br>
-Last but not the least, it was great to combine Image Recognition in this project. At its core, it uses the BiT model (Imagenet) for Image (Landscape) Recognition.
+[![Open In Colab](https://colab.research.google.com/drive/1i5ORoVsV_ALCCL2h-AsaJQdjIti05D6E#scrollTo=9ec8b992)
   
-<br>
-<h5> Since, this project is in the exploratory stage, right now everything is packaged in the form of a Collab Notebook.
-  Run the cells one by one as mentioned and explore!
- <br><br>
-  
-<a href='https://colab.research.google.com/drive/1i5ORoVsV_ALCCL2h-AsaJQdjIti05D6E#scrollTo=9ec8b992'>LINK TO THE COLLAB NOTEBOOK </a>
   
   
   
