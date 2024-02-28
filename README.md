@@ -16,7 +16,7 @@ Step 2:
 1) Better Similarity Comparison Algorithms for images
 <br>
 2) Better ranking system based on (if possible) more parameters.
-
+<br>
 Example output:
 ![image](https://github.com/ayanatherate/Tourist-Attraction-Search-and-Recommendation/assets/59755186/2b5068ee-f7c2-4a4f-a975-61d47d455577)
 
@@ -31,6 +31,7 @@ Example output:
 A separate use-case, I've tried to work on: given a location and a search radius, bring out the top Tourist Spots according to preference (example 'Hills', 'Palaces' etc.)
 However, Google Maps has this functionality. If you want to search 'Hills near me' on the Gmaps search bar, it will do it's job for you. 
 If you still want to check out, here's the code:
+<br>
 
 [![Open In Colab](https://colab.research.google.com/drive/1i5ORoVsV_ALCCL2h-AsaJQdjIti05D6E#scrollTo=9ec8b992)
   
