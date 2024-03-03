@@ -34,7 +34,7 @@ Example output:
   
 A separate use-case, I've tried to work on: given a location and a search radius, bring out the top Tourist Spots according to preference (example 'Hills', 'Palaces' etc.)
 However, Google Maps has this functionality. If you want to search 'Hills near me' on the Gmaps search bar, it will do it's job for you. 
-If you still want to check out, here's the code:
+If you still want to check out, refer to the collab noteboo above.
 <br>
 
 
