@@ -9,8 +9,9 @@ Step 1:
 
 
 Step 2:
+![Untitled presentation (2)](https://github.com/ayanatherate/Tourist-Attraction-Search-and-Recommendation/assets/59755186/1fa6edc2-d4d3-49dc-a535-3245e9218ed0)
 
-![Untitled presentation (1)](https://github.com/ayanatherate/Tourist-Attraction-Search-and-Recommendation/assets/59755186/4e84e5b8-efd3-4c65-9dec-c993f80b83f1)
+
 
 <h3> Things to work on further</h3>
 1) Better Similarity Comparison Algorithms for images
