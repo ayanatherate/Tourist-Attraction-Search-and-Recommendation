@@ -19,7 +19,8 @@ Example output:
 ![image](https://github.com/ayanatherate/Tourist-Attraction-Search-and-Recommendation/assets/59755186/dd19c7cf-a535-4fa9-87f8-4ee41d329ba5)
 
 <br><br>
-Updates 5th April 2024: Added a two-tower based embedding model structure where we take into account place names (embeddings) along with their google images,
+<h3>Updates 5th April 2024: </h3>
+Added a two-tower based embedding model structure where we take into account place names (embeddings) along with their google images,
 while providing recommendations. As lets say, simila tourist spot names might be similar too. For example, 'Jaipur Palace' and 'City Palace', can be similar 
 as both are indicative of 'Palace'-s as compared to 'Jaipur Palace' and 'Hill View Point', which are indicative of two different places. 
 
