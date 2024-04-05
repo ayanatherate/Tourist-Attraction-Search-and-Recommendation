@@ -13,17 +13,18 @@ Step 2:
 
 
 
-<h3> Things to work on further</h3>
-1) Better Similarity Comparison Algorithms for images
-<br>
-2) Better ranking system based on (if possible) more parameters.
-
 <br><br>
 Example output:
 <br><br>
+![image](https://github.com/ayanatherate/Tourist-Attraction-Search-and-Recommendation/assets/59755186/dd19c7cf-a535-4fa9-87f8-4ee41d329ba5)
 
-![image](https://github.com/ayanatherate/Tourist-Attraction-Search-and-Recommendation/assets/59755186/2b5068ee-f7c2-4a4f-a975-61d47d455577)
+<br><br>
+Updates 5th April 2024: Added a two-tower based embedding model structure where we take into account place names (embeddings) along with their google images,
+while providing recommendations. As lets say, simila tourist spot names might be similar too. For example, 'Jaipur Palace' and 'City Palace', can be similar 
+as both are indicative of 'Palace'-s as compared to 'Jaipur Palace' and 'Hill View Point', which are indicative of two different places. 
 
+<br>
+By combining the name embeddings along with the existing image embeddings in a combined weighted cosine similarity score, we have more robust predictions.
 
 
 
